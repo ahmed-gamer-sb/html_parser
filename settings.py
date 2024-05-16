@@ -1,5 +1,5 @@
 closed_tags = {
-    "input", "img", "!DOCTYPE"
+    "input", "img", "!DOCTYPE", "link"
 }
 
 FPS = 60
